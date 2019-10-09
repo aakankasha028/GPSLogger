@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GPSLogger</string>
+    <string name="latitude">Latitude</string>
+    <string name="longitude">Longitude</string>
+    <string name="start">START</string>
+    <string name="stop">STOP</string>
+    <string name="speed">Speed</string>
+    <string name="title_activity_google_maps">Map</string>
+    <string name="viewOnMap">View Points on Map</string>
+</resources>
